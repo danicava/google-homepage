@@ -1,0 +1,23 @@
+img {
+  
+  position: relative;
+  
+}
+
+input[type=text] {
+  
+  width: 90%;
+  margin: 0px 50px;
+  padding: 12px 40px 0px 40px;
+  box-sizing: border-box;
+  float: left;
+    
+}
+
+input[type=submit]{
+  
+  margin-left: 160px; 
+  -moz- appearance: none;
+  -webkit- appearance: none;
+  
+}
